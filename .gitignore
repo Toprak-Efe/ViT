@@ -1,1 +1,4 @@
-/data
+/data/images
+/data/labels
+/data/mlc_test_images
+/data/truth
